@@ -13,7 +13,7 @@ Create a new Cordova Project
 Install the plugin
 
     $ cd hello
-    $ cordova plugin install https://github.com/rajib/cordova-plugin-KillApp
+    $ cordova plugin add https://github.com/Went2TheBeach/cordova-plugin-KillApp
     
 
 Edit `www/index.html` and add the following code inside `<HEAD></HEAD>`
